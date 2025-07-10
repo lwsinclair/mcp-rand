@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/turlockmike-mcp-rand-badge.png)](https://mseep.ai/app/turlockmike-mcp-rand)
+
 # MCP Rand
 
 [![npm version](https://badge.fury.io/js/mcp-rand.svg)](https://www.npmjs.com/package/mcp-rand)
